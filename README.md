@@ -31,7 +31,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 
-### Outils de test et de documentation d'API</h3> 
+### Outils de test et de documentation d'API
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![JSDoc](https://img.shields.io/badge/JSDoc-green?style=for-the-badge&logo=javascript&logoColor=white)
 
