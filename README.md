@@ -90,6 +90,4 @@
 
 ## Contact
 
-N'hésitez pas à me contacter pour toutes questions.
-
-[Contactez-moi sur LinkedIn](https://www.linkedin.com/in/depretlucie1/)
+N'hésitez pas à me contacter > [Contactez-moi sur LinkedIn](https://www.linkedin.com/in/depretlucie1/)
