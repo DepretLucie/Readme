@@ -87,7 +87,8 @@
 
 ## Contact
 
-N'hésitez pas à me contacter 
+N'hésitez pas à me contacter par mail : depret.lucie1@gmail.com
+
 [Contactez-moi sur LinkedIn](https://www.linkedin.com/in/depretlucie1/)
-[Stackoverflow](https://stackoverflow.com/users/23599579/lucie-dprt)
-[Mail](depret.lucie1@gmail.com)
+
+[Retrouvez-moi sur Stackoverflow](https://stackoverflow.com/users/23599579/lucie-dprt)
