@@ -56,12 +56,15 @@
 
   <br>
   
-  En tant que membre d'une équipe de 4 personnes, nous étions chargés de livrer divers livrables, tels que le CDCF et le CDCT. Notre rôle impliquait également d'agir comme intermédiaireavec le client, en répondant efficacement à ses demandes principales et secondaires tout en respectant les délais impartis. Cela nécessitait une compréhension approfondie des besoins du client, une communication claire et régulière, ainsi que la livraison ponctuelle des livrables conformément aux spécifications convenues.
+  En tant que membre d'une équipe de 4 personnes, nous étions chargés de livrer divers livrables, tels que le CDCF et le CDCT. Notre rôle impliquait également d'agir comme intermédiaire avec le client, en répondant efficacement à ses demandes principales et secondaires tout en respectant les délais impartis. Cela nécessitait une compréhension approfondie des besoins du client, une communication claire et régulière, ainsi que la livraison ponctuelle des livrables conformément aux spécifications convenues.
 </div>
 
+<br><br>
 
-3. [Nom du projet 2](lien_vers_projet_2) - Description brève du projet.
-4. [Nom du projet 3](lien_vers_projet_3) - Description brève du projet.
+ <img src="https://github.com/DepretLucie/presentation/assets/95081261/86fbe92b-3b97-41b6-b27c-3164b7e617d9" alt="Team Up Logo" width="200">
+
+
+## Contact
 
 N'hésitez pas à me contacter pour toutes questions.
 
