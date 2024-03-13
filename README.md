@@ -68,10 +68,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/DepretLucie/presentation/assets/95081261/86fbe92b-3b97-41b6-b27c-3164b7e617d9" alt="Behind You" width="200">
   
-  <br><br>
-
   [Behind You](https://github.com/DepretLucie/Jeu-Behind-You) est un jeu de plateforme en 2D créé avec Unity lors d'une gamejam, un événement de développement de jeux vidéo qui a duré 48 heures. Dans ce jeu, les joueurs sont plongés dans un univers où tout est inversé et irréel. Les déplacements traditionnels sont renversés : aller vers la gauche fait avancer le personnage vers la droite, et vice versa. Les éléments familiers comme les timers sont également inversés, et même les lois de la physique sont altérées ; la lave soigne et l'eau brûle.
   
   <br>
@@ -83,7 +80,7 @@
 
   <br>
 
-  Ce jeu a été développé dans le cadre d'une gamejam, un défi de développement de jeu où le thème est révélé aux participants au début de l'événement, les incitant à créer un jeu en un temps limité.
+  Il a été développé dans le cadre d'une gamejam, un défi de développement de jeu où le thème est révélé aux participants au début de l'événement, les incitant à créer un jeu en un temps limité. Nous étions une équipe de 4, et notre objectif était de représenter de manière ludique et immersive les quatre sens secondaires de l'organisme humain : la proprioception, l'équilibrioception, la thermoception et la nociception. Nous avons intégré ces concepts pour offrir une expérience de jeu unique où les joueurs peuvent explorer et interagir avec ces aspects souvent négligés de la perception humaine
 
   <br>
 </div>
