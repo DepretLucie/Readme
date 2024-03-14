@@ -25,6 +25,8 @@
 ### Frameworks
 ![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-purple?style=for-the-badge&logo=xamarin&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Outils de développement
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -34,6 +36,25 @@
 ### Outils de test et de documentation d'API
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![JSDoc](https://img.shields.io/badge/JSDoc-green?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Bases de données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Méthode de développement
+![Scrum](https://img.shields.io/badge/Scrum-blue?style=for-the-badge&logo=scrum&logoColor=white)
+![Extreme Programming](https://img.shields.io/badge/Extreme%20Programming-blue?style=for-the-badge&logo=xp&logoColor=white)
+
+### Pratiques de développement
+- DevOps
+
+### Qualités logicielles
+- Clean Code
+  - ATDD (Acceptance Test Driven Development)
+  - FIRST (Fast, Isolated, Repeatable, Self-Validating, Timely)
+  - TDD (Test Driven Development)
+  - AAA (Arrange, Act, Assert)
 
 <br>
 
