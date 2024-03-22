@@ -65,7 +65,7 @@
 
   <br><br>
 
-  [Team Up](lien_vers_projet_2) est un réseau social de rencontres conçu pour les amateurs de sport, disponible sur smartphone. Il incite à la pratique d'activités sportives tout en facilitant les rencontres entre passionnés. Cette application offre des fonctionnalités de communication et d'information   avancées. Grâce à son système de recherche d'activité, les utilisateurs peuvent accéder à toutes les informations nécessaires sur une activité donnée et entrer en contact avec les personnes partageant les mêmes centres d'intérêt sportifs.
+  [Team Up](https://github.com/DepretLucie/TeamUp) est un réseau social de rencontres conçu pour les amateurs de sport, disponible sur smartphone. Il incite à la pratique d'activités sportives tout en facilitant les rencontres entre passionnés. Cette application offre des fonctionnalités de communication et d'information   avancées. Grâce à son système de recherche d'activité, les utilisateurs peuvent accéder à toutes les informations nécessaires sur une activité donnée et entrer en contact avec les personnes partageant les mêmes centres d'intérêt sportifs.
 
   <br>
   
