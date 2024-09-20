@@ -120,4 +120,5 @@ Le site a été développé en utilisant ces technologies :
 ## Contact
 
 N'hésitez pas à me contacter par mail : [depret.lucie1@gmail.com](mailto:depret.lucie1@gmail.com)
+
 [Contactez-moi sur LinkedIn](https://www.linkedin.com/in/depretlucie1/)
