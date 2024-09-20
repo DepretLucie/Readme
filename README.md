@@ -1,13 +1,8 @@
-<h1 align="center">
-  Bienvenue sur mon profil !
-</h1>
+# Bienvenue sur mon profil !
 
 <br>
 
-<div align="center">
-  Ayant un intérêt marqué pour le développement web et mobile, particulièrement pour le développement Android, j'ai obtenu une licence professionnelle en programmation avancée. 
-  Actuellement en quête de nouveaux défis et d'opportunités enrichissantes dans ce domaine, je suis motivée à explorer de nouvelles perspectives et à contribuer de manière significative.
-</div>
+Je suis passionnée par le développement web et mobile, avec une expertise particulière en développement Android. J'ai obtenu une licence professionnelle en programmation avancée. Actuellement en quête de nouveaux défis et d'opportunités enrichissantes dans ce domaine, je suis motivée à explorer de nouvelles perspectives et à contribuer de manière significative.
 
 <br>
 
@@ -42,30 +37,43 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Méthode de développement
-![Scrum](https://img.shields.io/badge/Scrum-blue?style=for-the-badge&logo=scrum&logoColor=white)
-![Extreme Programming](https://img.shields.io/badge/Extreme%20Programming-blue?style=for-the-badge&logo=xp&logoColor=white)
-
-### Pratiques de développement
-- DevOps
-
-### Qualités logicielles
-- Clean Code
-  - ATDD (Acceptance Test Driven Development)
-  - FIRST (Fast, Isolated, Repeatable, Self-Validating, Timely)
-  - TDD (Test Driven Development)
-  - AAA (Arrange, Act, Assert)
-
 <br>
 
 ## Projets récents
+
+### Site Vitrine Professionnel
+
+[MephistoAndCo](https://mephistoandco.fr) est un site internet consistant en la création d'un site vitrine professionnel visant à présenter de manière claire et attrayante les diverses compétences et expériences de [Mephisto](https://x.com/Mephisto_TTV) dans le domaine du casting, du streaming et de l'événementiel. Le site servira de plateforme essentielle pour atteindre plusieurs objectifs clés :
+
+- **Visibilité** : Offrir une vitrine numérique qui permettra de faire connaître ses activités en tant que caster, streamer et organisateur d'événements.
+- **Accessibilité des informations** : Centraliser toutes les informations importantes, telles que les expériences, les événements organisés... afin de faciliter la prise de contact avec des structures et des événements officiels.
+- **Promotion du projet "Uprazing"** : Dédier une section à son projet Unity, offrant ainsi un aperçu de ses compétences techniques et créatives, ainsi que des exemples concrets de son travail.
+- **Mise en avant de l'équipe** : Présenter le travail de son équipe pour valoriser les collaborations et les contributions collectives dans les projets.
+
+<br>
+
+L'objectif est de renforcer la présence en ligne de celui-ci pour attirer l'attention des structures, des boîtes de production et des marques, tout en s'adressant également au grand public. En créant un site professionnel soigné et informatif, nous visons à inciter ces entités à le contacter pour des opportunités de casting et de collaboration.
+
+<br>
+
+Le site a été développé en utilisant ces technologies :
+- **Frontend** : JavaScript et EJS pour une interface dynamique et interactive.
+- **Backend** : Node.js avec Express.js pour gérer les fonctionnalités du serveur et les interactions avec la base de données.
+- **Design** : Bootstrap pour garantir un design responsive et une expérience utilisateur fluide.
+- **Base de données** : MySQL pour stocker les données des événements, de l'équipe, et des informations personnelles.
+
+<br>
+
+---
+
+<br>
 
 <div align="center">
   <img src="https://github.com/DepretLucie/presentation/assets/95081261/86fbe92b-3b97-41b6-b27c-3164b7e617d9" alt="Team Up Logo" width="200">
 
   <br><br>
 
-  [Team Up](https://github.com/DepretLucie/TeamUp) est un réseau social de rencontres conçu pour les amateurs de sport, disponible sur smartphone. Il incite à la pratique d'activités sportives tout en facilitant les rencontres entre passionnés. Cette application offre des fonctionnalités de communication et d'information   avancées. Grâce à son système de recherche d'activité, les utilisateurs peuvent accéder à toutes les informations nécessaires sur une activité donnée et entrer en contact avec les personnes partageant les mêmes centres d'intérêt sportifs.
+  [Team Up](https://github.com/DepretLucie/TeamUp) est un réseau social de rencontres conçu pour les amateurs de sport, disponible sur smartphone. Il incite à la pratique d'activités sportives tout en facilitant les rencontres entre passionnés. Cette application offre des fonctionnalités de communication et d'information avancées. Grâce à son système de recherche d'activité, les utilisateurs peuvent accéder à toutes les informations nécessaires sur une activité donnée et entrer en contact avec les personnes partageant les mêmes centres d'intérêt sportifs.
 
   <br>
   
@@ -73,8 +81,8 @@
   |-------------------------------|---------------------------------------------------------|
   | Développement                 | C#, XAML avec Xamarin                                   |
   | Gestion de projet             | Méthodologie Agile                                      |
-  | Documents                     | Cahier des Charges Fonctionnel(CDCF)                    |
-  |                               | Cahier des Charges Technique(CDCT)                      |
+  | Documents                     | Cahier des Charges Fonctionnel (CDCF)                  |
+  |                               | Cahier des Charges Technique (CDCT)                     |
   |                               | Manuels (installation, utilisation, maintenance)        |
 
   <br>
@@ -101,15 +109,12 @@
 
   <br>
 
-  Il a été développé dans le cadre d'une gamejam, un défi de développement de jeu où le thème est révélé aux participants au début de l'événement, les incitant à créer un jeu en un temps limité. Nous étions une équipe de 4, et notre objectif était de représenter de manière ludique et immersive les quatre sens secondaires de l'organisme humain : la proprioception, l'équilibrioception, la thermoception et la nociception. Nous avons intégré ces concepts pour offrir une expérience de jeu unique où les joueurs peuvent explorer et interagir avec ces aspects souvent négligés de la perception humaine
+  Il a été développé dans le cadre d'une gamejam, un défi de développement de jeu où le thème est révélé aux participants au début de l'événement, les incitant à créer un jeu en un temps limité. Nous étions une équipe de 4, et notre objectif était de représenter de manière ludique et immersive les quatre sens secondaires de l'organisme humain : la proprioception, l'équilibrioception, la thermoception et la nociception. Nous avons intégré ces concepts pour offrir une expérience de jeu unique où les joueurs peuvent explorer et interagir avec ces aspects souvent négligés de la perception humaine.
 
   <br>
 </div>
 
 ## Contact
 
-N'hésitez pas à me contacter par mail : depret.lucie1@gmail.com
-
+N'hésitez pas à me contacter par mail : [depret.lucie1@gmail.com](mailto:depret.lucie1@gmail.com)
 [Contactez-moi sur LinkedIn](https://www.linkedin.com/in/depretlucie1/)
-
-[Retrouvez-moi sur Stackoverflow](https://stackoverflow.com/users/23599579/lucie-dprt)
