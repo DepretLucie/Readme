@@ -16,12 +16,15 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge)
+![EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge)
 
 ### Frameworks
 ![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-purple?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge)
 
 ### Outils de développement
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white)
