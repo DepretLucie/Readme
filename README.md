@@ -61,9 +61,9 @@ L'objectif est de renforcer la présence en ligne de celui-ci pour attirer l'att
 
 Le site a été développé en utilisant ces technologies :
 - **Frontend** : JavaScript et EJS pour une interface dynamique et interactive.
-- **Backend** : Node.js avec Express.js pour gérer les fonctionnalités du serveur et les interactions avec la base de données.
+- **Backend** : Node.js avec Express.js et Sequelize.js pour gérer les fonctionnalités du serveur et les interactions avec la base de données.
 - **Design** : Bootstrap pour garantir un design responsive et une expérience utilisateur fluide.
-- **Base de données** : MySQL pour stocker les données des événements, de l'équipe, et des informations personnelles.
+- **Base de données** : phpMyAdmin pour stocker les données des événements, de l'équipe, et des informations personnelles.
 
 <br>
 
