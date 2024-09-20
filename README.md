@@ -41,7 +41,7 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 
 ## Projets récents
 
-### Site Vitrine Professionnel
+### Site vitrine professionnel
 
 [MephistoAndCo](https://mephistoandco.fr) est un site internet consistant en la création d'un site vitrine professionnel visant à présenter de manière claire et attrayante les diverses compétences et expériences de [Mephisto](https://x.com/Mephisto_TTV) dans le domaine du casting, du streaming et de l'événementiel. Le site servira de plateforme essentielle pour atteindre plusieurs objectifs clés :
 
