@@ -24,6 +24,7 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![Xamarin](https://img.shields.io/badge/Xamarin-purple?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge)
 
 ### Outils de développement
