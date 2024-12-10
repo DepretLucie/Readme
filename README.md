@@ -72,27 +72,27 @@ Le site a été développé en utilisant ces technologies :
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/DepretLucie/presentation/assets/95081261/86fbe92b-3b97-41b6-b27c-3164b7e617d9" alt="Team Up Logo" width="200">
+### Application mobile
 
-  <br><br>
+<img src="https://github.com/DepretLucie/presentation/assets/95081261/86fbe92b-3b97-41b6-b27c-3164b7e617d9" alt="Team Up Logo" width="200">
 
-  [Team Up](https://github.com/DepretLucie/TeamUp) est un réseau social de rencontres conçu pour les amateurs de sport, disponible sur smartphone. Il incite à la pratique d'activités sportives tout en facilitant les rencontres entre passionnés. Cette application offre des fonctionnalités de communication et d'information avancées. Grâce à son système de recherche d'activité, les utilisateurs peuvent accéder à toutes les informations nécessaires sur une activité donnée et entrer en contact avec les personnes partageant les mêmes centres d'intérêt sportifs.
+<br><br>
 
-  <br>
-  
-  | Technologies utilisées        | Détails                                                 |
-  |-------------------------------|---------------------------------------------------------|
-  | Développement                 | C#, XAML avec Xamarin                                   |
-  | Gestion de projet             | Méthodologie Agile                                      |
-  | Documents                     | Cahier des Charges Fonctionnel (CDCF)                  |
-  |                               | Cahier des Charges Technique (CDCT)                     |
-  |                               | Manuels (installation, utilisation, maintenance)        |
+[Team Up](https://github.com/DepretLucie/TeamUp) est un réseau social de rencontres conçu pour les amateurs de sport, disponible sur smartphone. Il incite à la pratique d'activités sportives tout en facilitant les rencontres entre passionnés. Cette application offre des fonctionnalités de communication et d'information avancées. Grâce à son système de recherche d'activité, les utilisateurs peuvent accéder à toutes les informations nécessaires sur une activité donnée et entrer en contact avec les personnes partageant les mêmes centres d'intérêt sportifs.
 
-  <br>
-  
-  En tant que membre d'une équipe de 4 personnes, nous étions chargés de livrer divers livrables, tels que le CDCF et le CDCT. Notre rôle impliquait également d'agir comme intermédiaire avec le client, en répondant efficacement à ses demandes principales et secondaires tout en respectant les délais impartis. Cela nécessitait une compréhension approfondie des besoins du client, une communication claire et régulière, ainsi que la livraison ponctuelle des livrables conformément aux spécifications convenues.
-</div>
+<br>
+
+| Technologies utilisées        | Détails                                                 |
+|-------------------------------|---------------------------------------------------------|
+| Développement                 | C#, XAML avec Xamarin                                   |
+| Gestion de projet             | Méthodologie Agile                                      |
+| Documents                     | Cahier des Charges Fonctionnel (CDCF)                  |
+|                               | Cahier des Charges Technique (CDCT)                     |
+|                               | Manuels (installation, utilisation, maintenance)        |
+
+<br>
+
+En tant que membre d'une équipe de 4 personnes, nous étions chargés de livrer divers livrables, tels que le CDCF et le CDCT. Notre rôle impliquait également d'agir comme intermédiaire avec le client, en répondant efficacement à ses demandes principales et secondaires tout en respectant les délais impartis. Cela nécessitait une compréhension approfondie des besoins du client, une communication claire et régulière, ainsi que la livraison ponctuelle des livrables conformément aux spécifications convenues.
 
 <br>
 
@@ -100,23 +100,22 @@ Le site a été développé en utilisant ces technologies :
 
 <br>
 
-<div align="center">
-  
-  [Behind You](https://github.com/DepretLucie/Jeu-Behind-You) est un jeu de plateforme en 2D créé avec Unity lors d'une gamejam, un événement de développement de jeux vidéo qui a duré 48 heures. Dans ce jeu, les joueurs sont plongés dans un univers où tout est inversé et irréel. Les déplacements traditionnels sont renversés : aller vers la gauche fait avancer le personnage vers la droite, et vice versa. Les éléments familiers comme les timers sont également inversés, et même les lois de la physique sont altérées ; la lave soigne et l'eau brûle.
-  
-  <br>
+### Jeu vidéo 
 
-  | Caractéristiques              | Détails                                                 |
-  |-------------------------------|---------------------------------------------------------|
-  | Type de jeu                   | Plateforme en 2D                                        |
-  | Développement                 | C# avec Unity                                           |
+[Behind You](https://github.com/DepretLucie/Jeu-Behind-You) est un jeu de plateforme en 2D créé avec Unity lors d'une gamejam, un événement de développement de jeux vidéo qui a duré 48 heures. Dans ce jeu, les joueurs sont plongés dans un univers où tout est inversé et irréel. Les déplacements traditionnels sont renversés : aller vers la gauche fait avancer le personnage vers la droite, et vice versa. Les éléments familiers comme les timers sont également inversés, et même les lois de la physique sont altérées ; la lave soigne et l'eau brûle.
 
-  <br>
+<br>
 
-  Il a été développé dans le cadre d'une gamejam, un défi de développement de jeu où le thème est révélé aux participants au début de l'événement, les incitant à créer un jeu en un temps limité. Nous étions une équipe de 4, et notre objectif était de représenter de manière ludique et immersive les quatre sens secondaires de l'organisme humain : la proprioception, l'équilibrioception, la thermoception et la nociception. Nous avons intégré ces concepts pour offrir une expérience de jeu unique où les joueurs peuvent explorer et interagir avec ces aspects souvent négligés de la perception humaine.
+| Caractéristiques              | Détails                                                 |
+|-------------------------------|---------------------------------------------------------|
+| Type de jeu                   | Plateforme en 2D                                        |
+| Développement                 | C# avec Unity                                           |
 
-  <br>
-</div>
+<br>
+
+Il a été développé dans le cadre d'une gamejam, un défi de développement de jeu où le thème est révélé aux participants au début de l'événement, les incitant à créer un jeu en un temps limité. Nous étions une équipe de 4, et notre objectif était de représenter de manière ludique et immersive les quatre sens secondaires de l'organisme humain : la proprioception, l'équilibrioception, la thermoception et la nociception. Nous avons intégré ces concepts pour offrir une expérience de jeu unique où les joueurs peuvent explorer et interagir avec ces aspects souvent négligés de la perception humaine.
+
+<br>
 
 ## Contact
 
