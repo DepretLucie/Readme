@@ -89,7 +89,6 @@ Ce site web dynamique et fonctionnel est parfaitement adapté aux besoins du clu
 
 <br>
 
-Réalisation d'une documentation utilisateur, charte graphique.
 Le site a été développé en utilisant ces technologies :
 - **Frontend** : JavaScript et EJS pour une interface dynamique et interactive.
 - **Backend** : Node.js avec Express.js et Sequelize.js pour gérer les fonctionnalités du serveur et les interactions avec la base de données.
