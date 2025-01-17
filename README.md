@@ -37,7 +37,7 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![JSDoc](https://img.shields.io/badge/JSDoc-green?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Outils de maquettage et modélisation
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-lightgrey?style=for-the-badge)  
 
 ### Bases de données
