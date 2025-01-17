@@ -40,23 +40,100 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 <br>
 
 ## Projets récents
 
-### Site vitrine professionnel
-
-[MephistoAndCo](https://mephistoandco.fr) est un site internet consistant en la création d'un site vitrine professionnel visant à présenter de manière claire et attrayante les diverses compétences et expériences de [Mephisto](https://x.com/Mephisto_TTV) dans le domaine du casting, du streaming et de l'événementiel. Le site servira de plateforme essentielle pour atteindre plusieurs objectifs clés :
-
-- **Visibilité** : Offrir une vitrine numérique qui permettra de faire connaître ses activités en tant que caster, streamer et organisateur d'événements.
-- **Accessibilité des informations** : Centraliser toutes les informations importantes, telles que les expériences, les événements organisés... afin de faciliter la prise de contact avec des structures et des événements officiels.
-- **Promotion du projet "Uprazing"** : Dédier une section à son projet Unity, offrant ainsi un aperçu de ses compétences techniques et créatives, ainsi que des exemples concrets de son travail.
-- **Mise en avant de l'équipe** : Présenter le travail de son équipe pour valoriser les collaborations et les contributions collectives dans les projets.
+### :pushpin: Présentation du site vitrine professionnel des Goélands de Biarritz
+<span class="text-muted">*Octobre 2024 - Décembre 2024*</span>
 
 <br>
 
-L'objectif est de renforcer la présence en ligne de celui-ci pour attirer l'attention des structures, des boîtes de production et des marques, tout en s'adressant également au grand public. En créant un site professionnel soigné et informatif, nous visons à inciter ces entités à le contacter pour des opportunités de casting et de collaboration.
+Le nouveau site des [Goélands de Biarritz](https://www.goelandsbiarritztt.fr/), club de tennis de table, a été conçu pour répondre aux besoins des membres tout en renforçant la visibilité du club en ligne.
+
+<br>
+
+:rocket: Objectifs et réalisations :
+
+:one: Mise en avant des actualités et événements
+
+Intégration d’une section dédiée pour partager facilement les dernières nouvelles et annonces du club.
+
+:two: Accessibilité des informations clés
+
+Création d’un espace regroupant des informations essentielles pour les nouveaux pratiquants et les membres réguliers, facilement accessible.
+
+:three: Design moderne et responsive
+
+Création d’une interface visuellement attrayante et adaptée à tous les appareils (ordinateurs, tablettes, smartphones).
+
+:four: Optimisation SEO
+
+Renforcement de la visibilité en ligne pour attirer de nouveaux membres et partenaires.
+
+:five: Interface d’administration intuitive
+
+Développement d’un back-office simple et accessible, permettant une mise à jour rapide du contenu par des utilisateurs non techniques.
+
+<br>
+
+:dart: Un outil clé pour une association en plein essor :
+
+Ce site web dynamique et fonctionnel est parfaitement adapté aux besoins du club. Il améliore la capacité à communiquer efficacement avec ses membres et la communauté locale ainsi que la visibilité pour attirer de nouveaux talents et partenaires.
+
+<br>
+
+Réalisation d'une documentation utilisateur, charte graphique.
+Le site a été développé en utilisant ces technologies :
+- **Frontend** : JavaScript et EJS pour une interface dynamique et interactive.
+- **Backend** : Node.js avec Express.js et Sequelize.js pour gérer les fonctionnalités du serveur et les interactions avec la base de données.
+- **Design** : Tailwind pour garantir un design responsive et une expérience utilisateur fluide.
+- **Base de données** : phpMyAdmin pour stocker les données des articles, des documents d'inscriptions, etc.
+
+<br>
+
+---
+
+### :pushpin: Présentation du site vitrine professionnel des Mephisto
+<span class="text-muted">*Aout 2024 - Septembre 2024*</span>
+
+<br>
+
+Le site [MephistoAndCo](https://mephistoandco.fr) a été conçu pour mettre en lumière de manière claire et attrayante les diverses compétences et expériences de Mephisto dans les domaines du casting, du streaming et de l'événementiel. Grâce à un back-office intuitif, Mephisto pourra gérer la maintenance de son site de manière autonome.
+
+<br>
+
+🚀 Objectifs principaux :
+
+:one: Visibilité 
+
+Offrir une vitrine numérique professionnelle afin de faire connaître ses activités de caster, streamer et organisateur d'événements.
+
+:two: Accessibilité des informations
+
+Centraliser toutes les données importantes comme les expériences, les événements organisés afin de faciliter la prise de contact avec des structures / événements officiels 
+
+:three: Promotion du projet "Uprazing"
+
+Dédier une section à son projet Unity, permettant de mettre en avant ses compétences techniques et créatives ainsi que présenter des exemples concrets de son travail.
+
+:four: Mise en avant de l’équipe
+
+Valoriser le travail collaboratif en présentant l’ensemble de l’équipe, leurs contributions et leurs projets communs.
+
+:five: Interface d’administration intuitive
+
+Développement d’un back-office simple et accessible, permettant une mise à jour rapide du contenu par des utilisateurs non techniques.
+
+
+<br>
+
+:dart: Un site au service de la visibilité et des opportunités, en ayant pour objectifs de :
+- Renforcer la présence en ligne pour capter l’attention des structures, boîtes de production, et marques.
+- S’adresser également au grand public en proposant un site à la fois professionnel et informatif.
+- Inciter ces entités à le contacter pour des opportunités de casting et de collaboration.
 
 <br>
 
@@ -68,9 +145,7 @@ Le site a été développé en utilisant ces technologies :
 
 <br>
 
----
-
-<br>
+## Projets plus anciens
 
 ### Application mobile
 
@@ -97,8 +172,6 @@ En tant que membre d'une équipe de 4 personnes, nous étions chargés de livrer
 <br>
 
 ---
-
-<br>
 
 ### Jeu vidéo 
 
