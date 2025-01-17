@@ -96,7 +96,7 @@ Le site a été développé en utilisant ces technologies :
 
 ---
 
-### :pushpin: Présentation du site vitrine professionnel des Mephisto
+### :pushpin: Présentation du site vitrine professionnel de Mephisto
 <span class="text-muted">*Aout 2024 - Septembre 2024*</span>
 
 <br>
