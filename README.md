@@ -36,6 +36,10 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![JSDoc](https://img.shields.io/badge/JSDoc-green?style=for-the-badge&logo=javascript&logoColor=white)
 
+### Outils de maquettage et modélisation
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)  
+![UML](https://img.shields.io/badge/UML-lightgrey?style=for-the-badge)  
+
 ### Bases de données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
