@@ -46,9 +46,58 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
+### CMS
+![WordPress](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Page builder
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+
+
+
 <br>
 
 ## Projets récents
+
+### :pushpin: Présentation du site vitrine professionnel d'Océan Intégration
+<span class="text-muted">*Janvier 2025 - Février 2025*</span>
+
+<br>
+
+Le nouveau site d'[Océan Intégration](https://ocean-integration.com/), expert en solutions audiovisuelles sur mesure, a été conçu pour valoriser son savoir-faire et renforcer sa présence en ligne, notamment dans les Landes et le Pays Basque.
+
+<br>
+
+:rocket: Objectifs et réalisations :
+
+:one: Mise en avant des services spécialisés
+
+Présentation détaillée des prestations : salles de cinéma privées, solutions WiFi, traitement acoustique, sonorisation professionnelle, alarme et vidéosurveillance, suivi de chantier.
+
+:two: Accessibilité des informations clés
+
+Un site structuré pour permettre aux clients et partenaires de comprendre rapidement l’expertise d’Océan Intégration et ses domaines d’intervention.
+
+:three: Design moderne et immersif
+
+Un site visuellement élégant, conçu pour mettre en valeur l’excellence des réalisations et offrir une navigation fluide sur tous les supports (ordinateurs, tablettes, smartphones).
+
+:four: Optimisation SEO locale
+
+Stratégie SEO ciblée sur les Landes et le Pays Basque pour améliorer la visibilité de l’entreprise et attirer une clientèle locale en quête de solutions audiovisuelles haut de gamme.
+
+:five: Interface intuitive sous WordPress
+
+Développement sur WordPress avec Elementor, permettant une gestion autonome et simplifiée des contenus par l’équipe d’Océan Intégration.
+
+<br>
+
+:dart: Un outil digital au service de l’excellence
+
+Grâce à ce site vitrine moderne et performant, Océan Intégration renforce son image de marque et sa proximité avec sa clientèle. Il s’agit d’un véritable levier commercial pour attirer de nouveaux projets et partenaires dans la région.
+
+<br>
+
+---
 
 ### :pushpin: Présentation du site vitrine professionnel des Goélands de Biarritz
 <span class="text-muted">*Octobre 2024 - Décembre 2024*</span>
