@@ -18,7 +18,7 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge)
 
-### Frameworks
+### Frameworks / Librairies
 ![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-purple?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -26,16 +26,14 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge)
 
-### Outils de développement
+### Outils de développement / API
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-
-### Outils de test et de documentation d'API
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![JSDoc](https://img.shields.io/badge/JSDoc-green?style=for-the-badge&logo=javascript&logoColor=white)
 
-### Outils de maquettage et modélisation
+### Maquettage / Modélisation
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-lightgrey?style=for-the-badge)  
 
@@ -44,12 +42,9 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-### CMS
+### CMS / Page Builder
 ![WordPress](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### Page builder
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-
 
 
 <br>
