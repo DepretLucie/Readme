@@ -15,7 +15,6 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge)
 
@@ -42,7 +41,6 @@ Je suis passionnée par le développement web et mobile, avec une expertise part
 
 ### Bases de données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
