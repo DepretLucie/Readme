@@ -8,7 +8,7 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 
 ---
 
-## 💡 À propos de moi
+## À propos de moi
 
 - 🧠 Curieuse, rigoureuse et polyvalente
 - 🎯 Passionnée par l’UX, le responsive design et la qualité du code
@@ -19,7 +19,7 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 
 ---
 
-## 🛠️ Compétences principales
+## Compétences principales
 
 ### Langages
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
@@ -60,13 +60,13 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 
 ---
 
-## 🧩 Projets en vedette
+## Projets en vedette
 
-- [🌊 Océan Intégration](https://ocean-integration.com/) – Site WordPress Elementor vitrine d’une entreprise audiovisuelle locale.
-- [🏓 Goélands de Biarritz](https://www.goelandsbiarritztt.fr/) – Plateforme associative Node.js pour un club sportif.
-- [🎮 Mephisto & Co](https://mephistoandco.fr) – Site de promotion d’un caster / streamer avec espace projets.
-- [📱 Team Up](https://github.com/DepretLucie/TeamUp) – Application mobile Xamarin pour rencontrer d'autres sportifs.
-- [🧠 Behind You](https://github.com/DepretLucie/Jeu-Behind-You) – Jeu Unity réalisé en gamejam sur le thème de la perception sensorielle.
+- [Océan Intégration](https://ocean-integration.com/) – Site WordPress Elementor vitrine d’une entreprise audiovisuelle locale.
+- [Goélands de Biarritz](https://www.goelandsbiarritztt.fr/) – Plateforme associative Node.js pour un club sportif.
+- [Mephisto & Co](https://mephistoandco.fr) – Site de promotion d’un caster / streamer avec espace projets.
+- [Team Up](https://github.com/DepretLucie/TeamUp) – Application mobile Xamarin pour rencontrer d'autres sportifs.
+- [Behind You](https://github.com/DepretLucie/Jeu-Behind-You) – Jeu Unity réalisé en gamejam sur le thème de la perception sensorielle.
 
 ---
 
@@ -88,8 +88,6 @@ Le nouveau site d'[Océan Intégration](https://ocean-integration.com/), expert 
 
 :dart: Un outil digital au service de l’excellence
 - Grâce à ce site vitrine moderne et performant, Océan Intégration renforce son image de marque et sa proximité avec sa clientèle. Il s’agit d’un véritable levier commercial pour attirer de nouveaux projets et partenaires dans la région.
-
-<br>
 
 ---
 
@@ -119,8 +117,6 @@ Le site a été développé en utilisant ces technologies :
 - **Backend** : Node.js avec Express.js et Sequelize.js pour gérer les fonctionnalités du serveur et les interactions avec la base de données.
 - **Design** : Tailwind pour garantir un design responsive et une expérience utilisateur fluide.
 - **Base de données** : phpMyAdmin pour stocker les données des articles, des documents d'inscriptions, etc.
-
-<br>
 
 ---
 
