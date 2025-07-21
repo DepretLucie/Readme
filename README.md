@@ -13,7 +13,7 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 - 🧠 Curieuse, rigoureuse et polyvalente
 - 🎯 Passionnée par l’UX, le responsive design et la qualité du code
 - 🔁 Habituée au travail en équipe comme en autonomie (projets clients, projets personnels, hackathons, gamejams)
-- 📍 Basée à Mouguerre, Pyrénées-Atlantiques (64)
+- 📍 Basée dans les Pyrénées-Atlantiques (64)
 - 📬 depret.lucie1@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/depretlucie1/)
 
