@@ -10,7 +10,7 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 
 ## À propos de moi
 
-- 🧠 Curieuse, rigoureuse et polyvalente
+- 🧠 Curieuse, rigoureuse
 - 🎯 Passionnée par l’UX, le responsive design et la qualité du code
 - 🔁 Habituée au travail en équipe comme en autonomie (projets clients, projets personnels, hackathons, gamejams)
 - 📍 Basée dans les Pyrénées-Atlantiques (64)
@@ -65,7 +65,6 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 - [Océan Intégration](https://ocean-integration.com/) – Site WordPress Elementor vitrine d’une entreprise audiovisuelle locale.
 - [Goélands de Biarritz](https://www.goelandsbiarritztt.fr/) – Plateforme associative Node.js pour un club sportif.
 - [Mephisto & Co](https://mephistoandco.fr) – Site de promotion d’un caster / streamer avec espace projets.
-- [Team Up](https://github.com/DepretLucie/TeamUp) – Application mobile Xamarin pour rencontrer d'autres sportifs.
 - [Behind You](https://github.com/DepretLucie/Jeu-Behind-You) – Jeu Unity réalisé en gamejam sur le thème de la perception sensorielle.
 
 ---
