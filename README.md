@@ -66,6 +66,7 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 
 ## Projets en vedette
 
+- [Million Flowerz](https://www.millionflowerz.fr/) – Site vitrine d'une structure e-sport sur valorant.
 - [Océan Intégration](https://ocean-integration.com/) – Site WordPress Elementor vitrine d’une entreprise audiovisuelle locale.
 - [Goélands de Biarritz](https://www.goelandsbiarritztt.fr/) – Plateforme associative Node.js pour un club sportif.
 - [Mephisto & Co](https://mephistoandco.fr) – Site de promotion d’un caster / streamer avec espace projets.
