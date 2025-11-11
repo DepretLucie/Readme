@@ -30,10 +30,12 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks / Librairies
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vue.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge)
 ![Xamarin](https://img.shields.io/badge/Xamarin-purple?style=for-the-badge&logo=xamarin)
@@ -47,12 +49,14 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin)
 
-### Outils
-![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android-studio)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![JSDoc](https://img.shields.io/badge/JSDoc-green?style=for-the-badge&logo=javascript)
+### Outils / ORM / API
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JSDoc](https://img.shields.io/badge/JSDoc-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Modélisation / Design
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
@@ -66,6 +70,40 @@ Après plusieurs années d’expérience dans le **domaine du SIG** (Systèmes d
 - [Goélands de Biarritz](https://www.goelandsbiarritztt.fr/) – Plateforme associative Node.js pour un club sportif.
 - [Mephisto & Co](https://mephistoandco.fr) – Site de promotion d’un caster / streamer avec espace projets.
 - [Behind You](https://github.com/DepretLucie/Jeu-Behind-You) – Jeu Unity réalisé en gamejam sur le thème de la perception sensorielle.
+
+---
+
+### :pushpin: Présentation du site vitrine professionnel de Million Flowerz  
+<span class="text-muted">*Juin 2025 - Octobre 2025*</span>
+
+Le site officiel de la structure esport [**Million Flowerz**](https://www.millionflowerz.fr/) a été conçu pour offrir une vitrine moderne, dynamique et immersive à une communauté en pleine expansion. Ce projet vise à valoriser l’identité de la structure, ses équipes compétitives et ses partenaires, tout en créant un espace vivant autour de ses actualités et de sa boutique.
+
+<br>
+
+:rocket: **Objectifs et réalisations :**
+- :one: **Valoriser l’identité de la structure** : Présentation des origines du projet, de la vision et des valeurs qui ont conduit à la création de Million Flowerz.  
+- :two: **Mettre en avant les actualités** : Intégration d’un fil d’actualité et d’articles permettant de suivre la vie de la structure.  
+- :three: **Boutique en ligne intégrée** : Mise en place d’un espace boutique, redirigeant vers le site de vente.  
+- :four: **Présentation des rosters Valorant** : Mise en avant des équipes officielles représentant Million Flowerz sur la scène compétitive, avec fiches joueurs et résultats.  
+- :five: **Partenaires et collaborations** : Section dédiée aux sponsors et partenaires contribuant à la croissance du projet, renforçant sa crédibilité et sa visibilité.  
+- :six: **Palmarès et performances** : Présentation des résultats marquants et des distinctions obtenues sur les différents tournois et compétitions.  
+
+<br>
+
+:art: **Technologies utilisées :**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+<br>
+
+:dart: **Un site au service de la passion et de la performance**  
+Le site de Million Flowerz incarne l’esprit compétitif et créatif de la structure.  
+Il sert de véritable hub communautaire, permettant de suivre l’évolution des équipes, de découvrir les partenaires, et de soutenir le projet à travers la boutique officielle.
 
 ---
 
@@ -111,11 +149,14 @@ Le nouveau site des [Goélands de Biarritz](https://www.goelandsbiarritztt.fr/),
 
 <br>
 
-Le site a été développé en utilisant ces technologies :
-- **Frontend** : JavaScript et EJS pour une interface dynamique et interactive.
-- **Backend** : Node.js avec Express.js et Sequelize.js pour gérer les fonctionnalités du serveur et les interactions avec la base de données.
-- **Design** : Tailwind pour garantir un design responsive et une expérience utilisateur fluide.
-- **Base de données** : phpMyAdmin pour stocker les données des articles, des documents d'inscriptions, etc.
+🎨 **Technologies utilisées :**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin)
 
 ---
 
@@ -142,11 +183,14 @@ Le site [MephistoAndCo](https://mephistoandco.fr) a été conçu pour mettre en 
 
 <br>
 
-Le site a été développé en utilisant ces technologies :
-- **Frontend** : JavaScript et EJS pour une interface dynamique et interactive.
-- **Backend** : Node.js avec Express.js et Sequelize.js pour gérer les fonctionnalités du serveur et les interactions avec la base de données.
-- **Design** : Bootstrap pour garantir un design responsive et une expérience utilisateur fluide.
-- **Base de données** : phpMyAdmin pour stocker les données des événements, de l'équipe, et des informations personnelles.
+🎨 **Technologies utilisées :**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-grey?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-orange?style=for-the-badge&logo=phpmyadmin)
 
 --- 
 
